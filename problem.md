@@ -25,10 +25,12 @@ Indian Railway has agreed to this business idea and given us 4 paid APIs (paid A
        "ClientSecret": "tough password"
    }
 
-   This API is used to register a company who wish to use this paid service. Normally its a multi-steps process but for simplicity consider success response means payment done and all necessary fields are supplied.
+   This API is used to register a company who wish to use this paid service. Normally its a multi-steps process but 
+   for simplicity consider success response means payment done and all necessary fields are supplied.
 
    2. GET: /trains?window-size=12
-   This is a protected route and would require auth token in the header issued by Indian Railway. Auth token could be acquired by 4th API
+   This is a protected route and would require auth token in the header issued by Indian Railway. Auth token could be 
+   acquired by 4th API
    
    Expected Response:
    Status Code: 200
