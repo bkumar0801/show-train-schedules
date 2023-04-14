@@ -1,5 +1,4 @@
-###
-We have a business idea to create a web based service which could show train real time schedules within 12 hours and number of vacant seats in each class (sleeper, AC - for simplicity consider only these two classes) until 30 minutes before departure time. Just in case if the train is late, new departure time could be considered. 
+### We have a business idea to create a web based service which could show train real time schedules within 12 hours and number of vacant seats in each class (sleeper, AC - for simplicity consider only these two classes) until 30 minutes before departure time. Just in case if the train is late, new departure time could be considered. 
 
 <p> We would like to offer below services to our customers: <br>
     <ol>
@@ -13,7 +12,6 @@ We have a business idea to create a web based service which could show train rea
       <li> last minute ticket booking facilities on some discounts i.e. we would like to offer Indian Railway last minutes ticket sell. [This requirement we would not do for now] </li>
     </ol>
 </p>
-###
 
 Indian Railway has agreed to this business idea and given us 4 paid APIs (paid APIs means, Indian Railway would impose usage charges of these APIs on us everytime we make a request) --
 
